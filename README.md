@@ -33,12 +33,12 @@ ex.휴대폰 가격 / 전자제품(노트북,tv 등)
 ## 블록체인 적용시 긍정적인 상황
 ![2](https://user-images.githubusercontent.com/35838706/44033149-6b61b9c4-9f44-11e8-8186-6def0582ea52.png)
 
-
-## 기능소개
+##
 ![default](https://user-images.githubusercontent.com/35838706/44039826-ec4bcd1c-9f54-11e8-92e8-eb65c0de3c54.JPG)  
 ![1](https://user-images.githubusercontent.com/35838706/44039830-ede7c0d6-9f54-11e8-8448-28b55f4c95fc.JPG)
 
-- 
-- 
+## 블록체인 외의 기능
+- 지역별 가게의 기종의 가격비교
+- 지도에 판매점 표시
 - 
 - 
